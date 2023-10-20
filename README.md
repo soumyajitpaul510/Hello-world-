@@ -1,4 +1,4 @@
-# Hello-world-
+# Hello-Java-
 this is my first git repository
 <br>
 Author - soumyajit paul
